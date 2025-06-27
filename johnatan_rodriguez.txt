@@ -4,3 +4,9 @@ rama
  git checkout rama_nueva // moverse a esa rama
  git checkout -b // crear rama y moverse a esa rama
  git branch rama_nueva nueva_rama // renombrar rama
+
+ mezclar ramas
+ 1.- me cambio hacia la rama dopnde quiero llevar los cambios
+ git checkout main
+ 2.- merge desde la rama que quiro traer los cambios
+ git merge 
