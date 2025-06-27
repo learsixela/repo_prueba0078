@@ -1,1 +1,6 @@
-wwww
+rama
+ git branch %% ver cuantas ramas hay
+ git branch rama_nueva // crear rama rama_nueva
+ git checkout rama_nueva // moverse a esa rama
+ git checkout -b // crear rama y moverse a esa rama
+ git branch rama_nueva nueva_rama // renombrar rama
