@@ -1,10 +1,9 @@
 hola soy israel
 
 git add .
-
 git commit -m "Israel Palma"
 git pull
-
 git push -u origin main
+
 
 cualquier cosa
