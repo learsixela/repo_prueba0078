@@ -1,0 +1,2 @@
+hola soy luis
+git add .//todos los archivos hacia el stage
