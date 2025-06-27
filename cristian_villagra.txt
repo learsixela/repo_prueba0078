@@ -11,3 +11,7 @@ cualquier cosa xDDDDD
 
 git merge main
 
+git branch israel_palma
+
+git branch -a
+
