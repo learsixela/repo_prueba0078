@@ -1,2 +1,6 @@
 hola soy luis
 git add .//todos los archivos hacia el stage
+git commit -m "luis romero"
+git pull//trae todo lo desde el repositorio de la nube
+git push -u origin main
+hola de nuevo, soy luis
