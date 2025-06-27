@@ -19,3 +19,10 @@ git checkout cristian_villagran // cambiar rama
 
 git checkout -b israel_palma // -b es para creación si no esta, por lo tanto se creo y se cambio de rama
 
+git merge // es para traer la información de un lugar a otro
+
+// mezclar ramas 
+1 primero estar en rama donde quiero tener cambios
+2.- git merge rama
+3.- se traen los cambias de la rama.
+
