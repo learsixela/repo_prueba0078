@@ -1,0 +1,19 @@
+hola soy israel
+
+git add .
+git commit -m "Israel Palma"
+git pull
+git push -u origin main
+
+git branch
+git branch rama_nueva
+git checkout rama_nueva //cambiarse de rama
+git checkout -b rama_nueva2
+
+git branch -m palma_israel palma_quezada //renombrando la rama
+
+//mezclar ramas
+1.- me cabia de rama hacia donde quiero llevar los cambios
+git checkout main
+2.- merge desde la rama que quiero traer los cambios
+git merge israel_palma 
