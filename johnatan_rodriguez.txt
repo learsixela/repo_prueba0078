@@ -1,3 +1,9 @@
+git add .  // agrega los cambios
+git commit -m "comentario" // agrega los comentarios
+git push -u origin rama // agrega los cambios a la nube 
+
+
+
 rama
  git branch %% ver cuantas ramas hay
  git branch rama_nueva // crear rama rama_nueva
@@ -8,5 +14,5 @@ rama
  mezclar ramas
  1.- me cambio hacia la rama dopnde quiero llevar los cambios
  git checkout main
- 2.- merge desde la rama que quiro traer los cambios
+ 2.- git merge desde la rama que quiro traer los cambios
  git merge 
