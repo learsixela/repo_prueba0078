@@ -9,3 +9,13 @@ git push -u origin main //
 
 cualquier cosa xDDDDD
 
+git merge main
+
+git branch israel_palma
+
+git branch -a // veo todas las ramas
+
+git checkout cristian_villagran // cambiar rama
+
+git checkout -b israel_palma // -b es para creación si no esta, por lo tanto se creo y se cambio de rama
+
