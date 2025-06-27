@@ -9,3 +9,5 @@ git push -u origin main //
 
 cualquier cosa xDDDDD
 
+git merge main
+
