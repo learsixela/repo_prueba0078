@@ -1,0 +1,11 @@
+git 
+
+code . es para abrir el repositorio clonado en visual estudio code
+
+git add . //
+git commit -m "Nombre de modificación" //
+Git pull //
+git push -u origin main //
+
+cualquier cosa xDDDDD
+
