@@ -2,6 +2,11 @@
 
 esto es una prueba de pull
 
+<<<<<<< HEAD
+Prueba de pull: Juan J.G.
+
+prueba de antooO
+=======
 
 
 
@@ -9,4 +14,5 @@ esto es una prueba de pull
 
 Prueba de pull: Juan J.G.
 israel palma
-holi👻
+Laura Duhalde
+>>>>>>> 4954704dd75eaa4b957dbc3cdcfa8879a9809654
